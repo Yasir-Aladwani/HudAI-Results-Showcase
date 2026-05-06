@@ -71,7 +71,7 @@ HudAI follows a modular pipeline that starts with user input, then Arabic text n
 
 ![System Architecture](assets/architecture/system_architecture_2.png)
 
-[View Architecture PDF](assets/architecture/system_architecture_1.pdf.pdf)
+![System Architecture](assets/architecture/system_architecture_1.png)
 
 ---
 
