@@ -35,7 +35,7 @@
 | 12 | [Evaluation Summary](#evaluation-summary) | RAG-based evaluation results |
 | 13 | [Additional Examples](#additional-examples) | PDF file with more response examples |
 | 14 | [Repository Purpose](#repository-purpose) | What this repository is intended to showcase |
-| 15 | [Disclaimer](#disclaimer) | Educational-use disclaimer |
+| 15 | [Disclaimer](#disclaimer) | Clarifies that HudAI is an educational project and not a replacement for scholars or official fatwa authorities |
 
 ---
 
