@@ -1,12 +1,18 @@
+<h1 align="center">HudAI | هُداي</h1>
+
+<p align="center">
+  <b>Intelligent Islamic Knowledge System powered by RAG, LLMs, and emotion-aware spiritual support.</b>
+</p>
+
 <p align="center">
   <img src="assets/screenshots/HudAI_Cover_Page.png" alt="HudAI Cover Page" width="100%">
 </p>
 
-# HudAI | هُداي
+<p align="center">
+  A results showcase for <b>HudAI</b>, an intelligent Islamic QA system designed to provide source-grounded Islamic answers, Quranic Tafsir, Hadith support, and faith-based emotional guidance.
+</p>
 
-A results showcase for **HudAI**, an intelligent Islamic QA system powered by **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and emotion-aware spiritual support.
-
-> **Note:** This repository is a results showcase for documentation, screenshots, demo, architecture, and evaluation outputs.  
+> **Note:** This repository is only for showcasing the project results, screenshots, demo, architecture, and evaluation examples.  
 > The original source code is private due to team ownership.
 
 ---
