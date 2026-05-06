@@ -35,10 +35,12 @@ HudAI uses a RAG-based architecture to retrieve information from trusted Islamic
 
 ## Team Members
 
-- Leen Almufleh  
-- Raghad Dasman  
-- Mansour Alhenaki  
-- Yasir Aladwani  
+| Name | LinkedIn |
+|---|---|
+| Leen Almufleh | [LinkedIn Profile](https://www.linkedin.com/in/leen-abdulaziz-alm) |
+| Raghad Dasman | [LinkedIn Profile](https://www.linkedin.com/in/raghad-dasman/) |
+| Mansour Alhenaki | [LinkedIn Profile](https://www.linkedin.com/in/mansour-alhenaki-011656218) |
+| Yasir Aladwani | [LinkedIn Profile](https://www.linkedin.com/in/yasir-aladwani-99669a402) |
 
 ---
 
