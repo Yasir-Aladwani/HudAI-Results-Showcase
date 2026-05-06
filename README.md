@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/screenshots/HudAI_Cover_Page.png" alt="HudAI Cover Page" width="100%">
+</p>
+
 # HudAI | هُداي
 
 A results showcase for **HudAI**, an intelligent Islamic QA system powered by **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and emotion-aware spiritual support.
