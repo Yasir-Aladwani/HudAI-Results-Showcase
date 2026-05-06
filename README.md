@@ -139,7 +139,7 @@ HudAI follows a modular pipeline that starts with user input, then Arabic text n
 
 Watch the project demo:
 
-[▶️ Watch HudAI Demo](demo/hudai_demo_video.mp4)
+[Watch HudAI Demo](https://drive.google.com/file/d/14Jz1pRg3hq7EgNe7uqWHf8k8Cz4Yzc3f/view?usp=sharing)
 
 ---
 
