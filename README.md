@@ -17,6 +17,28 @@
 
 ---
 
+## Table of Contents
+
+| # | Section | Description |
+|---|---|---|
+| 1 | [Overview](#overview) | Project summary and supported Islamic QA areas |
+| 2 | [Team Members](#team-members) | Team members and LinkedIn profiles |
+| 3 | [Project Problem](#project-problem) | The problem HudAI aims to solve |
+| 4 | [Key Features](#key-features) | Main system features and capabilities |
+| 5 | [System Architecture](#system-architecture) | High-level architecture and system flow |
+| 6 | [AI Pipeline](#ai-pipeline) | Step-by-step AI workflow |
+| 7 | [Supported Modes](#supported-modes) | Tafsir, Fiqh, Hadith, Support, and other modes |
+| 8 | [Tech Stack](#tech-stack) | AI, backend, frontend, cloud, and data sources |
+| 9 | [Demo Video](#demo-video) | Project demo video link |
+| 10 | [Application Screenshots](#application-screenshots) | Main app interface screenshots |
+| 11 | [Example Responses](#example-responses) | Sample outputs from the system |
+| 12 | [Evaluation Summary](#evaluation-summary) | RAG-based evaluation results |
+| 13 | [Additional Examples](#additional-examples) | PDF file with more response examples |
+| 14 | [Repository Purpose](#repository-purpose) | What this repository is intended to showcase |
+| 15 | [Disclaimer](#disclaimer) | Educational-use disclaimer |
+
+---
+
 ## Overview
 
 **HudAI | هُداي** is an intelligent Arabic Islamic question-answering system designed to provide reliable, source-grounded responses for Islamic knowledge.
