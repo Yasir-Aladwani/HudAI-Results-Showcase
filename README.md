@@ -69,9 +69,13 @@ HudAI addresses this issue by combining trusted Islamic sources with a conversat
 
 HudAI follows a modular pipeline that starts with user input, then Arabic text normalization, query routing, retrieval from trusted sources, post-processing, and final answer generation.
 
-![System Architecture](assets/architecture/system_architecture_2.png)
+<p align="center">
+  <img src="assets/architecture/system_architecture_2.png" alt="System Architecture" width="85%">
+</p>
 
-![System Architecture](assets/architecture/system_architecture_1.png)
+<p align="center">
+  <img src="assets/architecture/system_architecture_1.png" alt="System Architecture" width="85%">
+</p>
 
 ---
 
